@@ -33,7 +33,8 @@ git clone https://github.com/sirnoel7/phase3project.git
 ```
 #### Navigate to the project directory
 
-for example cd projectphase3
+for example:
+   cd projectphase3
 
 #### Install the dependencies for the project database to run (in the teminal)
 pip install pipenv
@@ -42,7 +43,7 @@ pipenv install
 
 pipenv install click
 
-NOTE: WITHOUT THESE DEPENDENCIES THE APP WILL NOT RUN
+**NOTE: WITHOUT THESE DEPENDENCIES THE APP WILL NOT RUN**
 
 ## Usage
 
