@@ -19,7 +19,6 @@ This is a simple Command-Line Interface (CLI) based To-Do List Application built
 - Python 3.8 or higher
 - Pipenv (for managing dependencies)
 
-
 ## Installation Requirements
 Git(via the app or website)
 A functioning computer 
@@ -78,8 +77,6 @@ You will then receive prompts that will easily guide you in using the applicatio
 - SQLite
 - Pipenv
 - Github
-
-
 
 ## Support and contact details
 In case of any difficulties while using the application contact it's developer (github.com/sirnoel7)
