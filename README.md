@@ -35,8 +35,9 @@ git clone https://github.com/sirnoel7/phase3project.git
 
 do so in your terminal, for example, you can write something along the lines of:
  
+ ```
    cd projectphase3
-
+```
 
 #### Install the dependencies for the project database to run (in the teminal)
 Run the following commands in your terminal:
