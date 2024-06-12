@@ -57,8 +57,19 @@ pipenv install click
 
 ## Usage
 
-After installing the dependencies, you can run the app by running "python3 app.py" in the terminal.
-You will receive prompts that will easily guide you in using the application from here
+After installing the dependencies, run the following code in your teminal to activate the virtual environment, in which the app will run
+
+```
+pipenv shell
+```
+
+you can then run the app, by running the code below in the terminal:
+
+```
+python3 app.py
+```
+
+You will then receive prompts that will easily guide you in using the application from here
 
 ## Technologies used
 - Python
@@ -71,7 +82,7 @@ You will receive prompts that will easily guide you in using the application fro
 
 
 ## Support and contact details
-In case of any difficulties whil eusing the application contact it's developer (github.com/sirnoel7)
+In case of any difficulties while using the application contact it's developer (github.com/sirnoel7)
 
 ### License
 The content of this site is licensed under the Cooperation of Great Minds
