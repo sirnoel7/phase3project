@@ -39,6 +39,8 @@ do so in your terminal, for example, you can write something along the lines of:
 
 
 #### Install the dependencies for the project database to run (in the teminal)
+Run the following commands in your terminal:
+
 ```
 pip install pipenv
 ```
