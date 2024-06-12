@@ -19,20 +19,47 @@ This is a simple Command-Line Interface (CLI) based To-Do List Application built
 - Python 3.8 or higher
 - Pipenv (for managing dependencies)
 
-## Installation
 
-```bash
-# Clone the repository:
-git clone <repository-url>
+## Installation Requirements
+Git(via the app or website)
+A functioning computer 
 
-# Navigate to the project directory:
-cd to_do_list
+## Installation instructions
 
-# Install dependencies using Pipenv:
+#### Clone the repository (run the command below in your teminal)
+```
+git clone https://github.com/sirnoel7/phase3project.git
+
+```
+#### Navigate to the project directory
+
+for example cd projectphase3
+
+#### Install the dependencies for the project database to run (in the teminal)
+pip install pipenv
+
 pipenv install
 
+pipenv install click
+
+NOTE: WITHOUT THESE DEPENDENCIES THE APP WILL NOT RUN
+
+## Usage
+
+After installing the dependencies, you can run the app by running "python3 app.py" in the terminal.
+You will receive prompts that will easily guide you in using the application from here
+
+## Technologies used
+Python
+SQLAlchemy
+Click
+SQLite
+Pipenv
+Github
+
+
 ## Support and contact details
-github.com/sirnoel7
+In case of any difficulties whil eusing the application contact it's developer (github.com/sirnoel7)
 
 ### License
 The content of this site is licensed under the Cooperation of Great Minds
