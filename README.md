@@ -51,12 +51,13 @@ After installing the dependencies, you can run the app by running "python3 app.p
 You will receive prompts that will easily guide you in using the application from here
 
 ## Technologies used
-Python
-SQLAlchemy
-Click
-SQLite
-Pipenv
-Github
+- Python
+- SQLAlchemy
+- Click
+- SQLite
+- Pipenv
+- Github
+
 
 
 ## Support and contact details
