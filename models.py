@@ -14,7 +14,7 @@ class Task(Base):
     id = Column(Integer, primary_key=True)
     title = Column(String, nullable=False)
     description = Column(String)
-    due_date = Column(Date)
+    due_date = Column(Date)  # Ensure due_date is of type Date
     status = Column(Boolean, default=False)
     category_id = Column(Integer, ForeignKey('categories.id'))
     category = relationship('Category')
