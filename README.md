@@ -29,7 +29,6 @@ A functioning computer
 #### Clone the repository (run the command below in your teminal)
 ```
 git clone https://github.com/sirnoel7/phase3project.git
-
 ```
 #### Navigate to the project directory
 
